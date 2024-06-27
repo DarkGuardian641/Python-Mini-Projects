@@ -6,7 +6,7 @@ You begin with three cups, with a ball hidden beneath one of them. After shuffli
 
 ## Dependencies
 
-Install Python 3 to run the program.
+Install Python 3 to run the code.
 
 ## How to Run
 
