@@ -13,7 +13,7 @@ Install Python 3 to run the code.
 ```python3
   python3 three_cup_monte.py
 ```
-## Screenshots
+## Output
 
 ![Screenshot 2024-06-28 0057188](https://github.com/DarkGuardian641/Python-Mini-Projects/assets/91188597/df297690-3824-40c5-a7c9-a7285165a000)
 
