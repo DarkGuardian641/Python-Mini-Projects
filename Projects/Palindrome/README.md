@@ -17,7 +17,7 @@ A palindrome is a number that reads the same forward and backward. Given an inte
 - Input Integer: Example with number 121.
 - Check if the Number is Negative: If yes, output False (e.g., -121 is not a palindrome).
 - Initialize Reversed Number to 0.
-- Reverse the Number:
+- Reverse the Number.
 - Repeatedly take the last digit of the original number and append it to the reversed number.
 - Remove the last digit from the original number.
 - Continue until the original number becomes 0.
