@@ -9,7 +9,7 @@ A palindrome is a number that reads the same forward and backward. Given an inte
 
 ## Requirements
 
-- Implement a function is_palindrome(x: int)
+- Implement a function is_Palindrome(x : int)
 - Do not convert the integer to a string or use any string manipulation techniques.
 
 ## Explanation
