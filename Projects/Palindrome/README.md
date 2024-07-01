@@ -7,12 +7,12 @@ A palindrome is a number that reads the same forward and backward. Given an inte
   <img src="https://github.com/DarkGuardian641/Python-Mini-Projects/assets/91188597/bda7ba55-f010-46e6-bfb5-be19676698fc" alt="image">
 </p>
 
-## Requirements
+## 🌟 Requirements
 
 - Implement a function is_Palindrome(x : int)
 - Do not convert the integer to a string or use any string manipulation techniques.
 
-## Explanation
+## ❔ Explanation
 
 - Input Integer: Example with number 121.
 - Check if the Number is Negative: If yes, output False (e.g., -121 is not a palindrome).
@@ -23,22 +23,22 @@ A palindrome is a number that reads the same forward and backward. Given an inte
 - Continue until the original number becomes 0.
 - Compare the Reversed Number with the Original Number.
 
-## Conclusion
+## 📜 Conclusion
 
 If the reversed number is equal to the original, the output is True (e.g., 121 is a palindrome).
 
-## Dependencies
+## ⚙️ Prerequisites
 
 Install Python 3 to run the code.
 
-## How to Run
+## 🛠️ How to Run
 
 ```python3
   python3 palindrome.py
 ```
-## Output
+## 📺 Output
 
 ![image](https://github.com/DarkGuardian641/Python-Mini-Projects/assets/91188597/b93ee8ae-d524-42a8-ad0f-600cbd95d456)
 
-## Author
+## 🤖 Author
 [Atharva Baikar](https://github.com/DarkGuardian641)
