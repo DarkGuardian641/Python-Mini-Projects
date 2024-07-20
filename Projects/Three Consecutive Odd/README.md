@@ -1,5 +1,5 @@
 
-## Three Consecutive Odds (Leetcode-1550)
+## Three Consecutive Odds (Leetcode #1550)
 
 Given an integer array `arr` determine if there are three consecutive odd numbers in the array. Return TRUE if such a sequence exists, otherwise return FALSE.
 
