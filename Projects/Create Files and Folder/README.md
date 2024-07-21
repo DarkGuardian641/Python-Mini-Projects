@@ -33,19 +33,19 @@ Install Python 3 to run the code.
 
 <br>
 
-To create folders:
+### To create folders:
 
 ```python3
   python3 create.py
 ```
 
-To rename folders:
+### To rename folders:
 
 ```python3
   python3 rename.py
 ```
 
-To get information of folders and its contents:
+### To get information of folders and its contents:
 
 ```python3
   python3 info.py
@@ -55,6 +55,21 @@ To get information of folders and its contents:
 
 ## 📺 Output
 
+### Created Folders
+
+![image](https://github.com/user-attachments/assets/71ab8eaf-23eb-4413-a2fc-11126191d580)
+
+### Renamed Folders
+
+![image](https://github.com/user-attachments/assets/f93d1af1-b44d-4800-bb85-451b6980e9e2)
+
+### Printed Folder Names
+
+![image](https://github.com/user-attachments/assets/9a73c539-cfd2-4048-bf0a-559b1e1e4493)
+
+### Contents
+
+![image](https://github.com/user-attachments/assets/9b14385b-d451-4e58-95aa-567c28a69313)
 
 <br>
 
