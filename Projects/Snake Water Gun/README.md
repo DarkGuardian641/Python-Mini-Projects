@@ -20,7 +20,7 @@ The objective is to create a Python program that allows a user to play Snake, Wa
 <br>
 
 <p align="center">
-  <img src="https://github.com/DarkGuardian641/Python-Mini-Projects/assets/91188597/0a606dd9-820d-4ab1-95ff-0481404e2890" alt="image">
+  <img src="https://github.com/user-attachments/assets/84d92779-08bc-41c4-b0cf-6acbcd528ce3" alt="image">
 </p>
 
 <br>
@@ -58,7 +58,7 @@ By completing this project, you will gain practical experience with these essent
 
 ## 📺 Output
 
-![image](https://github.com/DarkGuardian641/Python-Mini-Projects/assets/91188597/dfd182c8-b5e3-42f5-9816-d46e5c9b4770)
+![image](https://github.com/user-attachments/assets/eba4020f-5975-4668-88aa-01b9bd211e3d)
 
 <br>
 
