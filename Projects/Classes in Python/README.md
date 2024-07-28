@@ -78,7 +78,7 @@ Install Python 3 to run the code.
 ## 🛠️ How to Run
 
 ```python3
-  python3 cylinder.py
+  python3 classes.py
 ```
 
 <br>
