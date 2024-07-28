@@ -6,6 +6,12 @@ This Python program demonstrates the concepts of Object-Oriented Programming (OO
 
 <br>
 
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/24b5246d-6cce-4800-a6e9-89670824f305">
+</p>
+
+<br>
+
 ## 🔰 Features
 
 ### 💠 Parent Class: Employee
