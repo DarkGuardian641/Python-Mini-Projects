@@ -67,6 +67,19 @@ To display the information and programming language of a programmer, use the `in
 d.info() 
 d.showlang()
 ```
+<br>
+
+## ⚙️ Prerequisites
+
+Install Python 3 to run the code.
+
+<br>
+
+## 🛠️ How to Run
+
+```python3
+  python3 cylinder.py
+```
 
 <br>
 
