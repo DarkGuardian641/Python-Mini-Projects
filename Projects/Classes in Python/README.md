@@ -85,6 +85,20 @@ d.showlang()
 
 ## ⚙️ Prerequisites
 
+- Install Python 3 to run the code.
+
+<br>
+
+## 🛠️ How to Run
+
+```sh
+python3 classes.py
+```
+
+<br>
+
+## ⚙️ Prerequisites
+
 Install Python 3 to run the code.
 
 <br>
