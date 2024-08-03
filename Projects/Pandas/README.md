@@ -30,7 +30,7 @@ Install `Python 3` and `Jupyter Notebook` to run the code. Otherwise save the fi
 
 ## 📒 Viewing the notebook
 
-To view the Jupyter notebook, [click here](https://github.com/DarkGuardian641/Python-Mini-Projects/new/main/Projects/Pandas/Basics.ipynb).
+To view the Jupyter notebook, [click here](https://github.com/DarkGuardian641/Python-Mini-Projects/blob/main/Projects/Pandas/Basics.ipynb).
 
 <br>
 
