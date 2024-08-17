@@ -48,6 +48,10 @@ pip install pyttsx3
 
 ## 📺 Output
 
+```
+NOTE : The video below may be muted by default. Please click the speaker icon to unmute.
+```
+
 https://github.com/user-attachments/assets/0350e4ef-8616-4eda-bf67-43a242ba0f86
 
 <br>
