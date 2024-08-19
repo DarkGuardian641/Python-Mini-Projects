@@ -2,6 +2,7 @@
 ## News Fetcher using Python
 
 This Python script allows you to fetch the latest news articles based on a specific query using the News API.
+
 <br>
 
 <p align="center">
